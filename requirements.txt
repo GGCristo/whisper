@@ -1,6 +1,5 @@
 numba
 numpy
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.2
 tqdm
 more-itertools
 tiktoken
